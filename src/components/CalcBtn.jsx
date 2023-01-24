@@ -49,10 +49,10 @@ function CalcBtn({ btn }) {
   return (
     <button
       className={`${
-        btn.background === 'bg-calc-orange-light'
+        btn.symbol === '='
           ? 'bg-calc-orange-light border-orange-300'
-          : 'bg-calc-purple-light'
-      } rounded-full h-14 w-14 text-purple-200 border-2 border-purple-400`}
+          : 'bg-calc-purple-light border-purple-400'
+      } rounded-full h-14 w-14 text-purple-200 border-2 `}
       onClick={
         btn.value === '='
           ? handleCalculation
