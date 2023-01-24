@@ -1,4 +1,3 @@
-import { useContext, useState } from 'react';
 import './App.css';
 import Calculator from './components/Calculator';
 
