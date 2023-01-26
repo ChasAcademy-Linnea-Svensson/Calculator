@@ -16,6 +16,10 @@ A simple calculator I made as a schoolproject. The goal was to practice working 
 
 https://github.com/ChasAcademy-Linnea-Svensson/Calculator
 
+### Deployed here: :point_down:
+
+https://chasacademy-linnea-svensson.github.io/Calculator/
+
 ### Future plans:
 
 - Currently none
